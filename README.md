@@ -28,4 +28,4 @@ void example2(int n, int arr[])
 La complejidad es O(n^2)
 
 ## 3. ¿Cuál es la mejor complejidad de tiempo de bubbleSort?
-La complejidad es O(n^2)
+La complejidad es O(n)
